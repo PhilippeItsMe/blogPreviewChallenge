@@ -24,12 +24,15 @@ p{
 .flex {
     background-color: white;
     border-radius: 15px;
+    border-style: solid;
+    border-color: black;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-    width: 400px;
+    width: 360px;
     margin: auto;
+    box-shadow: 8px 8px 0px rgba(0, 0, 0, 1);
 }
 
 .illustration {
@@ -40,7 +43,7 @@ p{
 
 .content {
     width:90%;
-    margin:5%;
+    margin:1% 5% 5% 5%;
 }
 
 .learning {
