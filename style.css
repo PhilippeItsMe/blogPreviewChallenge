@@ -60,7 +60,7 @@ p{
 
 .portait {
     display: flex;
-    align-items: row;
+    align-items: center;
 }
 
 .portrait img {
@@ -73,6 +73,5 @@ p{
     color:hsl(0, 0%, 7%);
     font-size: 0.8rem;
     font-weight: bold;
-    margin-left: 10px;
-    align-content: center;
-}
+    margin-left: 6px;
+}    
